@@ -3,6 +3,7 @@
 
 
 ## 개발환경 세팅방법
+## [React Native](https://reactnative.dev/)
 ## [Expo](https://expo.dev/)
 expo를 설치하여 간단하게 배포를 해볼 수 있다.  
 mac은 watchman 또한 추가로 설치가 필요함.  
@@ -26,5 +27,3 @@ expo 앱 설치 후 회원가입 및 로그인.
 
 
 
-## React Native
-[https://reactnative.dev/](https://reactnative.dev/)

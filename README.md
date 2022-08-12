@@ -26,4 +26,10 @@ expo 앱 설치 후 회원가입 및 로그인.
 ### 3. `yarn start`로 실행
 
 
-
+## W/O Expo
+### 실행방법
+터미널 2개 띄우고 아래 명령을 각각 실행한다.  
+```shell
+yarn start
+yarn ios
+```
